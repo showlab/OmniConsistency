@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Download
 
-You can download the OmniConsistency model and pretrained LoRAs directly from [Hugging Face](https://huggingface.co/showlab/OmniConsistency).
+You can download the OmniConsistency model and trained LoRAs directly from [Hugging Face](https://huggingface.co/showlab/OmniConsistency).
 Or download using Python script:
 
 ### OmniConsistency Model
