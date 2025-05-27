@@ -63,7 +63,7 @@ hf_hub_download(repo_id="showlab/OmniConsistency", filename="LoRAs/Snoopy_rank12
 hf_hub_download(repo_id="showlab/OmniConsistency", filename="LoRAs/Van_Gogh_rank128_bf16.safetensors", local_dir="./LoRAs")
 hf_hub_download(repo_id="showlab/OmniConsistency", filename="LoRAs/Vector_rank128_bf16.safetensors", local_dir="./LoRAs")
 ```
-### Pretrained LoRAs
+### Trained LoRAs
 ```python
 from huggingface_hub import hf_hub_download
 hf_hub_download(repo_id="showlab/OmniConsistency", filename="OmniConsistency.safetensors", local_dir="./Model")
