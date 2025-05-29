@@ -14,6 +14,7 @@ Consistency from Paired Stylization Data**
 <a href="https://arxiv.org/abs/2505.18445"><img src="https://img.shields.io/badge/ariXv-2505.18445-A42C25.svg" alt="arXiv"></a>
 <a href="https://huggingface.co/spaces/yiren98/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/showlab/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://huggingface.co/datasets/showlab/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 
 
 <img src='./figure/teaser.png' width='100%' />
