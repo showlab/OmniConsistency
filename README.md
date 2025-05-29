@@ -135,7 +135,24 @@ clear_cache(pipe.transformer)
 image.save("results/output.png")
 ```
 
-<!-- ## Citation
+## Datasets
+Our datasets have been uploaded to the [Hugging Face](https://huggingface.co/datasets/showlab/OmniConsistency). and is available for direct use via the datasets library.
+
+You can easily load any of the 22 style subsets like this:
+```python
+from datasets import load_dataset
+
+# Load a single style (e.g., Ghibli)
+ds = load_dataset("showlab/OmniConsistency", split="Ghibli")
+print(ds[0])
 ```
 
-``` -->
+## Citation
+```
+@inproceedings{Song2025OmniConsistencyLS,
+  title={OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data},
+  author={Yiren Song and Cheng Liu and Mike Zheng Shou},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:278905729}
+}
+```
