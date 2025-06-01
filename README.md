@@ -19,6 +19,10 @@ Consistency from Paired Stylization Data**
 
 <img src='./figure/teaser.png' width='100%' />
 
+## News
+- **2025‑06‑01**: 🚀 Released the **OmniConsistency Generator** [ComfyUI node](https://github.com/lc03lc/Comfyui_OmniConsistency) – one‑click FLUX + OmniConsistency (with any LoRA) inside ComfyUI. 
+
+
 ## Installation
 
 We recommend using Python 3.10 and PyTorch with CUDA support. To set up the environment:
