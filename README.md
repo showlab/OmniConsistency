@@ -15,6 +15,7 @@ Consistency from Paired Stylization Data**
 <a href="https://huggingface.co/spaces/yiren98/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Space-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/showlab/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/datasets/showlab/OmniConsistency"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://openbayes.com/console/public/tutorials/fQCRoFWDE3R"><img src="https://img.shields.io/static/v1?label=Demo&message=OpenBayes%E8%B4%9D%E5%BC%8F%E8%AE%A1%E7%AE%97&color=green" alt="OpenBayes"></a>
 
 
 <img src='./figure/teaser.png' width='100%' />
