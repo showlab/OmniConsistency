@@ -681,7 +681,7 @@ class FluxPipeline(DiffusionPipeline, FluxLoraLoaderMixin, FromSingleFileMixin):
                     return_dict=False,
                 )[0]
         
-        del cond_latents, spatial_images, condition_image, condition_image_ls, img, _
+        del cond_latents, spatial_images, condition_image, _ #condition_image_ls, img, miss value img and condition_image_ls
         torch.cuda.empty_cache()
 
         # 6. Denoising loop
