@@ -153,6 +153,9 @@ ds = load_dataset("showlab/OmniConsistency", split="Ghibli")
 print(ds[0])
 ```
 
+## Acknowledgments
+Thanks to **[Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en)** for the helpful advice and the **[EasyControl](https://github.com/Xiaojiu-z/EasyControl)** project for providing the foundational support.
+
 ## Citation
 ```
 @inproceedings{Song2025OmniConsistencyLS,
